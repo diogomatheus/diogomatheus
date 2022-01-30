@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Diogo Matheus</h1>
 <h3 align="center">Software Architect | Software Engineering Researcher</h3>
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/diogomatheuscosta/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin"></a>
-  <a href="https://www.hackerrank.com/profile/diogomatheus"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank"></a>
-  <a href="https://www.twitter.com/dmmatheus"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter"></a>
-  <a href="mailto:dm.matheus@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=Gmail"></a>
-  <a href="http://www.diogomatheus.com.br"><img src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/diogomatheuscosta/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/profile/diogomatheus"><img src="https://img.shields.io/badge/HackerRank-blue?style=flat-square&logo=HackerRank&logoColor=white"></a>
+  <a href="https://www.twitter.com/dmmatheus"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white"></a>
+  <a href="mailto:dm.matheus@gmail.com"><img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="http://www.diogomatheus.com.br"><img src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome&logoColor=white"></a>
 </p>
 
 ## About
