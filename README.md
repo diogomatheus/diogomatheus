@@ -27,16 +27,13 @@
 ## Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
-![Go](https://img.shields.io/badge/Go-black?style=flat-square&logo=go)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js)
 ![Electron.js](https://img.shields.io/badge/Electron-black?style=flat-square&logo=Electron)
-![ABAP](https://img.shields.io/badge/ABAP-black?style=flat-square&logo=sap)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
-![Swift](https://img.shields.io/badge/Swift-black?style=flat-square&logo=swift)
-![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=Flutter)
+![Go](https://img.shields.io/badge/Go-black?style=flat-square&logo=go)
+![ABAP](https://img.shields.io/badge/ABAP-black?style=flat-square&logo=sap)
 ![Swagger](https://img.shields.io/badge/Swagger-black?style=flat-square&logo=swagger)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
@@ -71,6 +68,6 @@
 ## GitHub Profile Stats
 
 <a href="https://github.com/diogomatheus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogomatheus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogomatheus&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogomatheus&layout=compact" />
 </a>
