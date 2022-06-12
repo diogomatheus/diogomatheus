@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Diogo Matheus</h1>
-<h3 align="center">Software Architect | Software Engineering Researcher</h3>
+<h3 align="center">Software Engineer | Software Architect | Researcher</h3>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/diogomatheuscosta/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
   <a href="https://www.hackerrank.com/profile/diogomatheus"><img src="https://img.shields.io/badge/HackerRank-blue?style=flat-square&logo=HackerRank&logoColor=white"></a>
@@ -21,7 +21,7 @@
 - Experience in partially and fully remote environments
 
 <p align="justify"> 
-  D.Sc. student in Systems Engineering and Computer Science at COPPE/UFRJ, M.Sc. in Systems Engineering and Computer Science focused on Software Engineering, Specialist (MBA) in Project Management and Bachelor in Information Systems with emphasis in Systems Analysis. Knowledge in project management and services, agile methodologies and programming languages such as Java, Go, JavaScript, TypeScript, SAP ABAP and PHP.
+  M.Sc. in Systems Engineering and Computer Science focused on Software Engineering, Specialist (MBA) in Project Management and Bachelor in Information Systems with emphasis in Systems Analysis. Knowledge in project management and services, agile methodologies and programming languages such as Java, Go, JavaScript, TypeScript, SAP ABAP and PHP.
 </p>
 
 ## Technologies & Tools
