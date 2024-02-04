@@ -1,24 +1,18 @@
 <h1 align="center">Hi, I'm Diogo Matheus</h1>
 
-<p align="center">Software Engineer | Software Architect | Manager</p>
+<p align="center">Software Architect | Software Engineer</p>
 <p align="center">
+  <a href="https://diogomatheus.com.br/">
+    <img src="https://img.shields.io/badge/Website & Blog-blue?style=flat-square&logo=google-chrome&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/diogomatheuscosta/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
   <a href="http://lattes.cnpq.br/9740397503720448">
     <img src="https://img.shields.io/badge/Lattes-blue?style=flat-square&logo=google-chrome&logoColor=white">
   </a>
-  <a href="https://www.hackerrank.com/profile/diogomatheus">
-    <img src="https://img.shields.io/badge/HackerRank-blue?style=flat-square&logo=HackerRank&logoColor=white">
-  </a>
-  <a href="https://diogomatheus.com.br/">
-    <img src="https://img.shields.io/badge/Website & Blog-blue?style=flat-square&logo=google-chrome&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/@diogomatheus_">
-    <img src="https://img.shields.io/badge/Youtube-blue?style=flat-square&logo=youtube&logoColor=white">
-  </a>
-  <a href="https://twitter.com/diogomatheus_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white">
+  <a href="https://github.com/diogomatheus">
+    <img src="https://img.shields.io/badge/GitHub-blue?style=flat-square&logo=GitHub&logoColor=white">
   </a>
 </p>
 
