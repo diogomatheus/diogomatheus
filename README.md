@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Diogo Matheus</h1>
 
-<p align="center">Software Architect | Software Engineer</p>
+<p align="center">Software Architect | Software Engineer | Technical Lead</p>
 <p align="center">
   <a href="https://diogomatheus.com.br/">
     <img src="https://img.shields.io/badge/Website & Blog-blue?style=flat-square&logo=google-chrome&logoColor=white">
@@ -11,19 +11,12 @@
   <a href="http://lattes.cnpq.br/9740397503720448">
     <img src="https://img.shields.io/badge/Lattes-blue?style=flat-square&logo=google-chrome&logoColor=white">
   </a>
-  <a href="https://github.com/diogomatheus">
-    <img src="https://img.shields.io/badge/GitHub-blue?style=flat-square&logo=GitHub&logoColor=white">
-  </a>
 </p>
 
 ## About
 
-+15 years of experience in the Information Technology field, focused on software development projects (online applications and mobile apps), working with software engineering and software architecture, leading multidisciplinary teams of different sizes in startups and large global companies.
+Specialist with over 15 years of experience, focused on the specification and development of digital solutions, working with software architecture and software engineering, leading multidisciplinary teams of different sizes in startups and large global companies.
 
-- View of the whole without losing focus on detail
-- Combination of generalist and specialist skills (T-Shaped)
-- Leadership skills, influencing widely without authority bias
-- Ability to add new knowledge in a short period of time
-- Experience in partially and fully remote environments
+M.Sc. in Systems Engineering and Computer Science focused on Software Engineering, Specialist (MBA) in Project Management and Bachelor in Information Systems with emphasis in Systems Analysis. Knowledge in project management and services, as well as agile methodologies and programming languages ​such as Java, JavaScript, TypeScript, Go, PHP, Python, etc.
 
-M.Sc. in Systems Engineering and Computer Science focused on Software Engineering, Specialist (MBA) in Project Management and Bachelor in Information Systems with emphasis in Systems Analysis. Knowledge in project management and services, as well as agile methodologies and programming languages such as JavaScript, Java, PHP, Go, Python, R and SAP ABAP.
+Interests: Software Architecture, Software Engineering, Creative Coding, Artificial Intelligence & GenAI.
