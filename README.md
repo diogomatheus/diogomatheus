@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Diogo Matheus.</h1>
 
-<p align="center">Software Architect | Software Engineer | Technical Lead</p>
+<p align="center">Software Architect | Software Engineer</p>
 <p align="center">
   <a href="https://diogomatheus.com.br/">
     <img src="https://img.shields.io/badge/Website & Blog-blue?style=flat-square&logo=google-chrome&logoColor=white">
