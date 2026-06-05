@@ -15,7 +15,7 @@
 
 ## About
 
-Technology professional with over 15 years' experience, focused on the definition and implementation of digital solutions. Expertise in Software Architecture and Software Engineering, leading multidisciplinary teams of different sizes in startups and large global companies.
+Technology professional with over 15 years' experience, focused on the definition and implementation of digital solutions. Expertise in Software Architecture and Software Engineering, leading multidisciplinary teams in startups and large global companies.
 
 M.Sc. in Systems Engineering and Computer Science focused on Software Engineering, Specialist (MBA) in Project Management and Bachelor in Information Systems with emphasis in Systems Analysis. Knowledge in project management and services, as well as agile methodologies and programming languages ​such as JavaScript, TypeScript, Java, PHP, Go, Python, etc.
 
